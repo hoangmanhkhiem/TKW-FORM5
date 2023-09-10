@@ -1,0 +1,26 @@
+form {
+    background-color: rgb(148, 46, 243);
+    width: 500px;
+    text-align: center;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+table {
+    text-align: justify;
+    margin: 0 auto;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+.table1 {}
+
+.table2 td:first-child {
+    text-align: right;
+}
+
+.table2 td {
+    text-align: center;
+}
